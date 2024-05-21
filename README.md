@@ -1,6 +1,9 @@
 # 💫 Hey Isha Here!
 I'm Ishita Gupta, a Purdue University student double majoring in **Computer Science and Data Science & Applied Statistics with honors**. I'm deeply passionate about leveraging technology to solve real-world problems and drive positive change.<br><br>About Me<br>🎓 Education: Pursuing a Bachelor of Science with Honors in Computer Science and Data Science & Applied Statistics at Purdue University.<br>💼 Experience:<br>->AI Intern: Contributed to analytics data collection efforts and automated data processing tasks at an AI-based company in Bangalore, India.<br>->Chief Financial Officer: Led financial management at TAILERY, a student start-up.<br>💡 Projects:<br>Stock Market Predictor Analyzer Application<be> <br> MORE PROJECTS WILL SOON BE UPDATED. KEEP LOOKING OUT! <br><br>⚡ Patent: Filed an ongoing patent for an Extended Range Electric Vehicle with Dual Battery and Thermally-Aided Regenerative Charging System.<br>
 
+## 📽️ View My Project Demos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3wDDKFrcKy8" frameborder="0" allowfullscreen></iframe>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/isha.is.sleepy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishita-gupta-tech/) 
 
