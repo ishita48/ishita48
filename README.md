@@ -5,9 +5,23 @@ I'm Ishita Gupta, a Purdue University student double majoring in **Computer Scie
 🎓 **Education**: Pursuing a Bachelor of Science with Honors in Computer Science and Data Science & Applied Statistics at Purdue University.<br>💼 **Experience**:<br>->AI Intern: Contributed to analytics data collection efforts and automated data processing tasks at an AI-based company in Bangalore, India.<br>->Chief Financial Officer: Led financial management at TAILERY, a student start-up.<br>💡 **Projects**:<br> </>Stock Market Predictor Analyzer Application:The Stock Forecast App empowers investors with precision forecasting of Nasdaq stocks, leveraging advanced machine learning algorithms to provide accurate predictions spanning from 1 to 10 years into the future, enabling informed investment decisions.<br></>Tic Tac Toe Game: Tic Tac Toe Game offers a modern twist on the classic game, combining sleek animations and customizable themes for an engaging experience. Built with React, it ensures smooth gameplay across devices, inviting players to challenge their friends. Continuous innovation promises new features and challenges, making it the go-to choice for having fun! <br> <br> <i>MORE PROJECTS WILL SOON BE UPDATED.<i> KEEP LOOKING OUT! <br><br>⚡ **Patent**: Filed an ongoing patent for an Extended Range Electric Vehicle with Dual Battery and Thermally-Aided Regenerative Charging System.<br>
 
 ## 📽️ View My Project Demos by Clicking Below
-Stock Forecast App using ML LIVE demo
 
- [<img src="https://img.youtube.com/vi/3wDDKFrcKy8/maxresdefault.jpg" width="200" height="100">](https://www.youtube.com/watch?v=3wDDKFrcKy8)
+<table>
+  <tr>
+    <td align="center">
+      Stock Forecast App using ML demo<br>
+      <a href="https://www.youtube.com/watch?v=3wDDKFrcKy8" target="_blank">
+        <img src="https://img.youtube.com/vi/3wDDKFrcKy8/maxresdefault.jpg" width="200" height="100">
+      </a>
+    </td>
+    <td align="center">
+      Tic Tac Toe Game In React demo<br>
+      <a href="https://www.youtube.com/watch?v=lzVmDu5L-eI" target="_blank">
+        <img src="https://img.youtube.com/vi/lzVmDu5L-eI/0.jpg" width="200" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/isha.is.sleepy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishita-gupta-tech/) 
