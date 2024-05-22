@@ -6,7 +6,7 @@ I'm Ishita Gupta, a Purdue University student double majoring in **Computer Scie
 
 <i>MORE PROJECTS WILL SOON BE UPDATED.<i> KEEP LOOKING OUT! <br><br>⚡ **Patent**: Filed an ongoing patent for an Extended Range Electric Vehicle with Dual Battery and Thermally-Aided Regenerative Charging System.<br>
 
-## 📽️ View My Project Demos by Clicking Below
+## 📽️ View My Project and Demos by Clicking Below
 
 <table>
   <tr>
@@ -14,13 +14,15 @@ I'm Ishita Gupta, a Purdue University student double majoring in **Computer Scie
       Stock Forecast App using ML demo<br>
       <a href="https://www.youtube.com/watch?v=3wDDKFrcKy8" target="_blank">
         <img src="https://img.youtube.com/vi/3wDDKFrcKy8/maxresdefault.jpg" width="200" height="100">
-      </a>
+      </a><br>
+      <a href="https://stock-prediction-web-app-ml.streamlit.app/?embed_options=dark_theme" target="_blank">View Website</a>
     </td>
     <td align="center">
       Tic Tac Toe Game In React demo<br>
       <a href="https://www.youtube.com/watch?v=lzVmDu5L-eI" target="_blank">
         <img src="https://img.youtube.com/vi/lzVmDu5L-eI/0.jpg" width="200" height="100">
-      </a>
+      </a><br>
+      <a href="https://tictactoe-gametime-isha-gupta.netlify.app/" target="_blank">View Website</a>
     </td>
   </tr>
 </table>
