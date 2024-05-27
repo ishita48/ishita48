@@ -2,10 +2,12 @@
 I'm Ishita Gupta, a Purdue University student double majoring in **Computer Science and Data Science & Applied Statistics with honors**. I'm deeply passionate about leveraging technology to solve real-world problems and drive positive change.<br><br>
 
 # All About This Gal 🌟
-🎓 **Education**: Pursuing a Bachelor of Science with Honors in Computer Science and Data Science & Applied Statistics at Purdue University.<br>💼 **Experience**:<br>->AI Intern: Contributed to analytics data collection efforts and automated data processing tasks at an AI-based company in Bangalore, India.<br>->Chief Financial Officer: Led financial management at TAILERY, a student start-up.<br>💡 **Projects**:<br> </>Stock Market Predictor Analyzer Application:The Stock Forecast App empowers investors with precision forecasting of Nasdaq stocks, leveraging advanced machine learning algorithms to provide accurate predictions spanning from 1 to 10 years into the future, enabling informed investment decisions.<br></>Tic Tac Toe Game: Tic Tac Toe Game offers a modern twist on the classic game, combining sleek animations and customizable themes for an engaging experience. Built with React, it ensures smooth gameplay across devices, inviting players to challenge their friends. Continuous innovation promises new features and challenges, making it the go-to choice for having fun! <br> <br> 🚀 **Currently Working On**: <br>-End To End Machine Learning Project Implementation With Dockers <br> -Gym Workout Planner App
+🎓 **Education**: Pursuing a Bachelor of Science with Honors in Computer Science and Data Science & Applied Statistics at Purdue University.<br>💼 **Experience**:<br>->AI Intern: Contributed to analytics data collection efforts and automated data processing tasks at an AI-based company in Bangalore, India.<br>->Chief Financial Officer: Led financial management at TAILERY, a student start-up.<br>💡 **Projects**:<br> </>**Stock Market Predictor Analyzer Application**:The Stock Forecast App empowers investors with precision forecasting of Nasdaq stocks, leveraging advanced machine learning algorithms to provide accurate predictions spanning from 1 to 10 years into the future, enabling informed investment decisions.<br> </>**NASA APOD Explorer**: The NASA APOD Explorer is a web application designed to bring the captivating beauty of the cosmos to your fingertips. Powered by React and leveraging the NASA Astronomy Picture of the Day (APOD) API, this app provides users with a daily dose of stunning space imagery along with insightful descriptions. Delve into the universe anytime, anywhere! <br></>**Tic Tac Toe Game**: Tic Tac Toe Game offers a modern twist on the classic game, combining sleek animations and customizable themes for an engaging experience. Built with React, it ensures smooth gameplay across devices, inviting players to challenge their friends. Continuous innovation promises new features and challenges, making it the go-to choice for having fun! <br> <br> 🚀 **Currently Working On**: <br>-End To End Machine Learning Project Implementation With Dockers <br> -Gym Workout Planner App
 <br> -Build A MERN Finance Dashboard App | Machine Learning, Typescript, React, Node, MUI, Deployment
 
 <i>MORE PROJECTS WILL SOON BE UPDATED.<i> KEEP LOOKING OUT! <br><br>⚡ **Patent**: Filed an ongoing patent for an Extended Range Electric Vehicle with Dual Battery and Thermally-Aided Regenerative Charging System.<br>
+
+## 📽️ View My Project and Demos by Clicking Below
 
 ## 📽️ View My Project and Demos by Clicking Below
 
@@ -17,6 +19,13 @@ I'm Ishita Gupta, a Purdue University student double majoring in **Computer Scie
         <img src="https://img.youtube.com/vi/3wDDKFrcKy8/maxresdefault.jpg" width="200" height="100">
       </a><br>
       <a href="https://stock-prediction-web-app-ml.streamlit.app/?embed_options=dark_theme" target="_blank">View Website</a>
+    </td>
+    <td align="center">
+      NASA APOD Explorer demo<br>
+      <a href="https://youtu.be/T9WjE1YfVZQ" target="_blank">
+        <img src="https://img.youtube.com/vi/T9WjE1YfVZQ/0.jpg" width="200" height="100">
+      </a><br>
+      <a href="https://nasareactapodapp.netlify.app/" target="_blank">View Website</a>
     </td>
     <td align="center">
       Tic Tac Toe Game In React demo<br>
