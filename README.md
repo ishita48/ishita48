@@ -9,8 +9,6 @@ I'm Ishita Gupta, a Purdue University student double majoring in **Computer Scie
 
 ## 📽️ View My Project and Demos by Clicking Below
 
-## 📽️ View My Project and Demos by Clicking Below
-
 <table>
   <tr>
     <td align="center">
