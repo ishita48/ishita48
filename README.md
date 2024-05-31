@@ -39,14 +39,14 @@ I'm Ishita Gupta, a Purdue University student double majoring in **Computer Scie
       <a href="https://www.youtube.com/watch?v=cpudroKVan8" target="_blank">
         <img src="https://img.youtube.com/vi/cpudroKVan8/0.jpg" width="200" height="100">
       </a><br>
-      <a href="https://muscle-mate-gym-app.com" target="_blank">View Website</a>
+      <a href="https://musclemate-app.netlify.app/" target="_blank">View Website</a>
     </td>
     <td align="center">
       Health Tracker App demo<br>
       <a href="https://www.youtube.com/watch?v=gFnAjGA1fwg" target="_blank">
         <img src="https://img.youtube.com/vi/gFnAjGA1fwg/0.jpg" width="200" height="100">
       </a><br>
-      <a href="https://health-tracker-app.com" target="_blank">View Website</a>
+      <a href="https://healthtrackapp.streamlit.app/?embed_options=dark_theme" target="_blank">View Website</a>
     </td>
   </tr>
 </table>
