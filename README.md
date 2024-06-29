@@ -32,7 +32,7 @@ I'm Ishita Gupta, a Purdue University student double majoring in **Computer Scie
       <a href="https://tictactoe-gametime-isha-gupta.netlify.app/" target="_blank">View Website</a>
     </td>
   </tr>
-  <tr>
+  <tr> 
     <td align="center">
       Muscle-Mate Gym App demo<br>
       <a href="https://www.youtube.com/watch?v=cpudroKVan8" target="_blank">
