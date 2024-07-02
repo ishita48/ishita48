@@ -1,4 +1,4 @@
-# 💫 Hey Isha Here! 
+# 💫 Hey Isha Here!  
 I'm Ishita Gupta, a Purdue University student double majoring in **Computer Science and Data Science & Applied Statistics with honors**. I'm deeply passionate about leveraging technology to solve real-world problems and drive positive change.<br><br> 
  
 # All About This Gal 🌟 
